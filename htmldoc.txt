@@ -1,0 +1,28 @@
+DIFFERENCE BETWEEN HTML ELEMENTS
+Semantic HTML elements: 
+These elements simply mean, elements with meaning. The reason being, there definition in the code tells the browser and the developer what they are supposed to do. Framing in simpler words, these elements describe the type of content they are supposed to contain. Examples of Semantic HTML elements; article, aside, main, footer, header, nav, section e.t.
+
+Non-Semantic HTML elements:
+Unlike, semantic elements they do not have any meaning. They do not tell anything about the content they contain. They can be used with different attributes to mark up semantics common to a group.
+
+
+DIFFERENCE BETWEEN SELF-CLOSING TAGS AND NON-SELF CLOSING TAGS
+Self-closing tags like link, br, img can not contain any other elements just attributes so there is no need to make them something else. Non-self closing like div, span, h1 can contain other elements and of course take attributes because they are non-self closing tags.
+
+
+DIFFERENCE BETWEEN INLINE ELEMENTS AND BLOCK ELEMENTS
+Inline elements only cover the space as bounded by the tags in the HTML element. Block elements have top and bottom margins.Inline elements do not have a top and bottom margin.
+
+
+Name: Chinedu
+Background: Chinedu grew up in a close-knit family in Enugu, where he was exposed to the rich Igbo culture and values from a young age. His parents instilled in him the importance of education and hard work, which has shaped his aspirations.
+
+Education: Chinedu attended a local primary and secondary school, where he excelled academically. He was particularly drawn to subjects like mathematics and science, showing an early interest in problem-solving and analytical thinking. After completing his secondary education, he gained admission to a reputable university in Nigeria, where he studied computer science.
+
+Tech Interest: Throughout his university years, Chinedu became increasingly fascinated by technology and its potential to drive innovation and change in Nigeria. He participated in coding competitions, hackathons, and tech meetups, honing his skills in programming languages like Python, Java, and JavaScript. He also developed a keen interest in emerging technologies such as artificial intelligence and blockchain.
+
+Aspirations: Chinedu dreams of leveraging his passion for technology to make a positive impact in his community and beyond. He envisions a future where technology is used to solve pressing societal issues in Nigeria, such as access to quality education, healthcare, and infrastructure. With this vision in mind, Chinedu is eager to pursue further training in tech, perhaps through specialized courses or certifications in areas like cybersecurity, data science, or software engineering.
+
+Community Engagement: Despite his focus on tech, Chinedu remains deeply connected to his Igbo roots and is actively involved in community development initiatives. He volunteers his time to teach computer skills to young people in his neighborhood, hoping to empower them with the tools they need to succeed in the digital age.
+
+Challenges: Like many aspiring tech professionals in Nigeria, Chinedu faces challenges such as limited access to resources, infrastructure, and opportunities. However, he remains resilient and optimistic, believing that with determination and hard work, he can overcome these obstacles and achieve his goals.
